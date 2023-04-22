@@ -1,0 +1,9 @@
+{
+  "author": "Habib Siddiqui",
+  "description": "Wrapper for ffmpeg to extract frames from a video file",
+  "icon": "",
+  "id": "frame-extractor",
+  "name": "Volume Normalizer",
+  "tags": "",
+  "version": "0.0.1"
+}
